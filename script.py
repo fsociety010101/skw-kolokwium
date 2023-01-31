@@ -1,2 +1,1 @@
-# print("Hello, World!")
-drop database
+print("Hello, World!")
